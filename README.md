@@ -26,4 +26,4 @@ Li-ion Battery-Charge Management
 
 The block diagram below presents main components of the Extension Module and interconnections between components.
 
-![avatar](Extension_Module_For_Dexarm.png)
+![avatar](Extension_Module_For_Dexarm.jpg)
