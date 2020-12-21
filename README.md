@@ -13,17 +13,6 @@ It is intended for support more motors, sensors, and support Arduino, MicroPytho
 - MicroSD
 - DC12V 4A In
 
-Audio Codec Chip
-Dual Microphones on board
-Headphone output
-2 x 3-watt Speaker output
-Dual Auxiliary Input
-MicroSD Card slot (1 line or 4 lines)
-Six buttons (2 physical buttons and 4 touch buttons)
-JTAG header
-Integrated USB-UART Bridge Chip
-Li-ion Battery-Charge Management
-
 The block diagram below presents main components of the Extension Module and interconnections between components.
 
 ![avatar](Extension_Module_For_Dexarm.jpg)
